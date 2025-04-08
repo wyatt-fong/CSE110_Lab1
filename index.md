@@ -1,6 +1,8 @@
-## Welcome to Wyatt's User Page 
+# Welcome to Wyatt's User Page #
 
-Hello! My name's Wyatt and I am a third-year student at UCSD. 
+## Hello! 
+
+My name's Wyatt and I am a third-year student at UCSD. 
 
 <img src="IMG_1864.jpg" width="300" heigh="300"><br>
 
@@ -29,4 +31,4 @@ For further information, please redirect to these links:
 - [ ] [Github](https://github.com/wyatt-fong)
 
 
-Return to top of page: [↑](#welcome-to-wyatt's-user-page).
+Return to top of page: [↑](#hello).
